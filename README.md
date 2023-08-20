@@ -1,4 +1,6 @@
 # fido-fastapi
+Note: bonus folder added for more robust implementation of the same assignment
+
 # FastAPI Data Backend
 
 This project demonstrates a simple FastAPI backend application for managing transactions. It uses SQLite as the database and includes endpoints for creating, reading, updating, and deleting transactions, as well as fetching user statistics.
